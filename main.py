@@ -1,5 +1,3 @@
-import boto3
-import io
 import requests
 import streamlit as st
 from PIL import Image, ImageDraw, ImageFont
